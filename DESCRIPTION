@@ -1,7 +1,7 @@
 Package: cmdfun
 Type: Package
 Title: Framework for Building Interfaces to Shell Commands
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: person("Spencer", "Nystrom", 
     email = "nystromdev@gmail.com", 
     role = c("aut", "cre", "cph"),
@@ -23,9 +23,9 @@ URL: https://snystrom.github.io/cmdfun/,
         https://github.com/snystrom/cmdfun
 BugReports: https://github.com/snystrom/cmdfun
 NeedsCompilation: no
-Packaged: 2020-08-27 02:37:42 UTC; snystrom
+Packaged: 2020-10-02 14:16:21 UTC; snystrom
 Author: Spencer Nystrom [aut, cre, cph]
     (<https://orcid.org/0000-0003-1000-1579>)
 Maintainer: Spencer Nystrom <nystromdev@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-09-20 16:10:09 UTC
+Date/Publication: 2020-10-10 09:30:03 UTC
